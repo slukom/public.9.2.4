@@ -1,3 +1,4 @@
 test file
 new line
 new lime
+new line2
